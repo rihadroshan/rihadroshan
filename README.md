@@ -1,5 +1,5 @@
 <h1 align="center">Hello</h1>
-<h3 align="left">About<h3>
+<h3 align="left">About</h3>
   <p> I'm fervently dedicated to mastering the latest techniques and tools in cybersecurity. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
