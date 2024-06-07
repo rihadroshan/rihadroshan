@@ -8,22 +8,7 @@
 
 ### Certifications
 - Advanced Diploma In Cyber Defense
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .logo {
-            width: 40px;
-            height: 40px;
-            transition: transform 0.3s ease-in-out;
-        }
-        .logo:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</head>
-<body>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -52,4 +37,3 @@
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> 
     </a>
 </p>
-</body>
