@@ -1,5 +1,5 @@
 <h1 align="center">Hello</h1>
-<h4>about<h4>
+<h3 align="left">About<h3>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
