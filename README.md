@@ -9,8 +9,6 @@
 ### Certifications
 - Advanced Diploma In Cyber Defense
 
-<script src="https://tryhackme.com/badge/2191917"></script>
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
