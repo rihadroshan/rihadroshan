@@ -8,6 +8,7 @@
 
 ### Certifications
 - Advanced Diploma In Cyber Defense
+- CISCO Certified Ethical Hacker
 
 ### 🧰 Languages and Tools
 
