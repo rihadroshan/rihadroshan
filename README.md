@@ -1,5 +1,4 @@
 <h2 align="left">Hi, there!</h2>
-<h3 align="left">About</h3>
    <p>Cybersecurity</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
