@@ -2,7 +2,6 @@
 
 - Information security
 - Ethical hacking
-
 - Reach out to me at [rihadroshan@gmail.com](mailto:rihadroshan@gmail.com)
      
 <h3 align="left">Connect with me:</h3>
