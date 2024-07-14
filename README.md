@@ -1,7 +1,7 @@
 <h2 align="left">Hi, there!</h2>
-     - Information security
-     - Penetration testing
-     - Ethical hacking
+- Information security
+- Penetration testing
+- Ethical hacking
 
 - Reach out to me at [rihadroshan@gmail.com](mailto:rihadroshan@gmail.com)
      
