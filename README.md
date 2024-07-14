@@ -18,3 +18,14 @@
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
+
+## Featured Projects
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rihadroshan/ssh-honeypot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=ssh-honeypot" alt="ssh-honeypot" />
+      </a>
+    </td>
+  </tr>
