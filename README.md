@@ -1,6 +1,6 @@
 <h2 align="left">Hi, there!</h2>
 
-- Information security
+- Information Security
 - Ethical Hacking
      
 <h3 align="left">Connect with me:</h3>
