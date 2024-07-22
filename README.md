@@ -13,6 +13,7 @@
 ### Certifications
 - Advanced Diploma In Cyber Defense
 - CISCO Certified Ethical Hacker
+- API Security Fundamentals
 
 ### Languages and Tools
 
