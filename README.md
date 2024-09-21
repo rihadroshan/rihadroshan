@@ -1,7 +1,7 @@
 <h2 align="left">Hi, there!</h2>
 
-- Security Researcher
-- Ethical Hacker
+### Security Researcher
+
      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
