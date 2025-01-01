@@ -32,10 +32,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=ssh-honeypot" alt="ssh-honeypot" />
       </a>
       <a href="https://github.com/rihadroshan/PRODIGY_CS_03">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=PRODIGY_CS_03" alt="PassCheck" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=PassCheck" alt="PassCheck" />
       </a>
       <a href="https://github.com/rihadroshan/PRODIGY_CS_04">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=PRODIGY_CS_04" alt="KeyLogger" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=KeyLogger" alt="KeyLogger" />
       </a>
     </td>
   </tr>
