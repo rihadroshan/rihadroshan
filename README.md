@@ -23,7 +23,6 @@
 </br>
 
 ## Featured Project
-
 <div align="center">
 <table>
   <tr>
