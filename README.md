@@ -21,7 +21,7 @@
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
 </br>
 
-## Featured Project
+## Featured Projects
 <div align="center">
 <table>
   <tr>
