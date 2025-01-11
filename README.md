@@ -32,9 +32,6 @@
       <a href="https://github.com/rihadroshan/keylogger">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=KeyLogger" alt="KeyLogger" />
       </a>
-      <a href="https://github.com/rihadroshan/PassCheck">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=PassCheck" alt="PassCheck" />
-      </a>
     </td>
   </tr>
 
