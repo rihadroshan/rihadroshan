@@ -21,6 +21,7 @@
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
+<br>
 
 ## Featured Projects
 <tr>
