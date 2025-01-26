@@ -24,20 +24,28 @@
 <br>
 
 ## Featured Projects
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="display: flex; gap: 16px;">
-    <a href="https://github.com/rihadroshan/ssh-honeypot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=ssh-honeypot" alt="ssh-honeypot" />
-    </a>
-    <a href="https://github.com/rihadroshan/CodeSentry">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=CodeSentry" alt="CodeSentry" />
-    </a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="width: 300px;">
+      <h3>ssh-honeypot</h3>
+      <p>This SSH honeypot logs authentication attempts and command executions, providing insights into potential malicious activities.</p>
+      <small>Python 3</small>
+    </div>
+    
+    <div style="width: 300px;">
+      <h3>CodeSentry</h3>
+      <p>It's a robust and comprehensive tool designed to scan websites and source code for potential vulnerabilities.</p>
+      <small>Python</small>
+    </div>
   </div>
-  
+
+  <!-- Bottom Row -->
   <div style="display: flex; justify-content: center; width: 100%;">
-    <a href="https://github.com/rihadroshan/keylogger">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=keylogger" alt="keylogger" />
-    </a>
+    <div style="width: 300px; text-align: center;">
+      <h3>keylogger</h3>
+      <p>Designed for Windows, this keylogger operates discreetly, running silently in the background with the console window hidden.</p>
+      <small>Python</small>
+    </div>
   </div>
 </div>
 
