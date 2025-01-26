@@ -28,11 +28,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <div style="display: flex; gap: 16px;">
-    <a href="https://github.com/rihadroshan/CodeSentry">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=CodeSentry" alt="CodeSentry" />
-    </a>
     <a href="https://github.com/rihadroshan/ssh-honeypot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=ssh-honeypot" alt="ssh-honeypot" />
+    </a>
+    <a href="https://github.com/rihadroshan/CodeSentry">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=CodeSentry" alt="CodeSentry" />
     </a>
   </div>
   <div style="display: flex; justify-content: center; width: 100%;">
