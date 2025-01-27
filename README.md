@@ -21,24 +21,3 @@
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="y" width="30px" style="padding-right:10px;" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
-<br>
-<br>
-
-## Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="display: flex; gap: 16px;">
-    <a href="https://github.com/rihadroshan/ssh-honeypot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=ssh-honeypot" alt="ssh-honeypot" />
-    </a>
-    <a href="https://github.com/rihadroshan/CodeSentry">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=CodeSentry" alt="CodeSentry" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center; width: 100%;">
-    <a href="https://github.com/rihadroshan/keylogger">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadroshan&theme=dracula&hide_border=true&show_icons=true&repo=keylogger" alt="keylogger" />
-    </a>
-  </div>
-</div>
-
