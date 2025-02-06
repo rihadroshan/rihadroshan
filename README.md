@@ -24,4 +24,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihadroshan" alt="a" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rihadroshan)
+
