@@ -21,3 +21,9 @@
 <img align="left" alt="y" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="y" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="y" width="50px" style="padding-right:10px;" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihadroshan&show_icons=true&locale=en&layout=compact" alt="a" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihadroshan&show_icons=true&locale=en" alt="a" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihadroshan&" alt="a" /></p>
