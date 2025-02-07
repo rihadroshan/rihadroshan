@@ -1,5 +1,4 @@
-## **Hello Friend!**
-<h2 align="left">Hello Friend!</h2>
+## **_Hello Friend!_**
 
 ## *CyberSecurity Researcher*
 
