@@ -1,6 +1,6 @@
 <h2 align="left">Hello Friend!</h2>
 
-## *Security Researcher*
+## *CyberSecurity Researcher*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
