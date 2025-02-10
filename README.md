@@ -9,7 +9,7 @@
 
 Reach out to me at [rihadroshan@gmail.com](mailto:rihadroshan@gmail.com)
 
-### Languages and Tools
+### Languages and Technologies
 
 <img align="left" alt="y" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="y" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
