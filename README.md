@@ -1,8 +1,8 @@
 ## *Hello Friend!*
 
-### **CyberSecurity Researcher**
+## **CyberSecurity Researcher**
 
-## Certifications
+### Certifications
 <div>
   <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_EC_Council-D32F2F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Certified_AppSec_Practitioner_(CAP)_The_SecOps_Group-FF5722?style=for-the-badge&logoColor=white" />
