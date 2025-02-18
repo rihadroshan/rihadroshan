@@ -1,5 +1,3 @@
-## *Hello Friend!*
-
 ## **CyberSecurity Researcher**
 
 ### Certifications
