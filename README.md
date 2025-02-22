@@ -1,14 +1,5 @@
 ## **CyberSecurity Researcher**
 
-### Certifications
-<div>
-  <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_EC_Council-D32F2F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified_AppSec_Practitioner_(CAP)_The_SecOps_Group-FF5722?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified_Network_Security_Practitioner_(CNSP)_The_SecOps_Group-FF5722?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified_Cyber_Security_Analyst_(C3SA)_CyberWarFare_Labs-1976D2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_Cisco-1C9CD6?style=for-the-badge&logoColor=white" />
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
