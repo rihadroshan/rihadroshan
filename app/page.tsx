@@ -200,8 +200,7 @@ const Portfolio = () => {
               transition={{ duration: 0.5, delay: 0.5 }}
               className="text-gray-400 text-xl md:text-2xl max-w-2xl mb-8 font-light"
             >
-              I explore innovative cybersecurity strategies, 
-              focusing on detecting emerging threats and enhancing digital resilience.
+              Creating security testing environments and defensive tools while exploring emerging cyber threats.
             </motion.p>
           </motion.div>
         </section>
