@@ -30,7 +30,7 @@ const GrainOverlay = () => {
       <div
         className="absolute inset-0"
         style={{
-          backdropFilter: "contrast(120%) brightness(1%)",
+          backdropFilter: "contrast(400%) brightness(-200%)",
           mixBlendMode: "overlay",
         }}
       />
